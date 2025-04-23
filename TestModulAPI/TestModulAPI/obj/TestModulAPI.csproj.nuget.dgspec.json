@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/09_API_Design_dan_Construction_Using_Swagger/TestModulAPI/TestModulAPI/TestModulAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/09_API_Design_dan_Construction_Using_Swagger/TestModulAPI/TestModulAPI/TestModulAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/09_API_Design_dan_Construction_Using_Swagger/TestModulAPI/TestModulAPI/TestModulAPI.csproj",
+        "projectName": "TestModulAPI",
+        "projectPath": "/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/09_API_Design_dan_Construction_Using_Swagger/TestModulAPI/TestModulAPI/TestModulAPI.csproj",
+        "packagesPath": "/Users/doanta/.nuget/packages/",
+        "outputPath": "/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/09_API_Design_dan_Construction_Using_Swagger/TestModulAPI/TestModulAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/doanta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/doanta/.dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

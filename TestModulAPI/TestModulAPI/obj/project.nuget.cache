@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJmJXAM3nGo=",
+  "success": true,
+  "projectFilePath": "/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/09_API_Design_dan_Construction_Using_Swagger/TestModulAPI/TestModulAPI/TestModulAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/doanta/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/doanta/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/doanta/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/doanta/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/doanta/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/doanta/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
